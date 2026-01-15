@@ -1,0 +1,17 @@
+{
+  "name": "BHAT WASU",
+  "version": "1.0.0",
+  "description": "BHAT WASU XD ❤️",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.18.2",
+    "ws": "^8.14.2",
+    "fca-broken-nadeem": "latest"
+  },
+  "author": "BROKEN NADEEM",
+  "license": "MIT"
+}
