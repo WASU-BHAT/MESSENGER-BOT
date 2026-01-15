@@ -10,7 +10,7 @@
     "axios": "^1.6.8",
     "express": "^4.18.2",
     "ws": "^8.14.2",
-    "fca-broken-nadeem": "latest"
+    "fca-mafia": "latest"
   },
   "author": "BROKEN NADEEM",
   "license": "MIT"
