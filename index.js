@@ -1,4 +1,4 @@
-// save as server.js
+// save as index.js
 // npm install express ws fca-mafiya
 
 const express = require('express');
